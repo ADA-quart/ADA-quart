@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b40,100:7f2bff&height=200&section=header&text=TyTs%20%C2%B7%20ADA-quart&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Local-first%20apps%20%C2%B7%20LLM%20inference%20%C2%B7%20CUDA&descSize=16&descAlignY=60&descColor=d0bcff&animation=fadeIn" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8250DF&center=true&vCenter=true&width=780&lines=Local-first+apps+%C2%B7+LLM+inference+%C2%B7+CUDA;%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88%E5%BA%94%E7%94%A8+%C2%B7+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86+%C2%B7+CUDA+%E8%B0%83%E4%BC%98" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=5000&pause=1600&color=8250DF&center=true&vCenter=true&width=780&lines=Local-first+apps+%C2%B7+LLM+inference+%C2%B7+CUDA;%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88%E5%BA%94%E7%94%A8+%C2%B7+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86+%C2%B7+CUDA+%E8%B0%83%E4%BC%98" alt="Typing SVG" /></a>
 
 <p>
   <a href="mailto:y66448535@gmail.com"><img src="https://img.shields.io/badge/Gmail-y66448535-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ADA-quart&label=Views&style=flat-square&color=8250df" alt="views"/>
+  <a href="https://github.com/ADA-quart"><img src="https://img.shields.io/badge/Profile-Views-8250df?style=flat-square&logo=github" alt="views"/></a>
   <img src="https://img.shields.io/github/followers/ADA-quart?style=flat-square&label=Followers" alt="followers"/>
   <img src="https://img.shields.io/github/stars/ADA-quart?affiliations=OWNER&style=flat-square&label=Stars" alt="stars"/>
 </p>
@@ -15,8 +15,8 @@
 
 ## 在做什么 · Now
 
-**[ITDC](https://github.com/ADA-quart/ITDC)** — 本地优先的「日历 · 待办 · 智能排程」（Web + Android）
-*A local-first calendar / todo / smart scheduler. Data stays on your device.*
+**[ITDC](https://github.com/ADA-quart/ITDC)** — 一个日历，待办交给 LLM 自动排程（Web + Android，本地优先）
+*A calendar where LLM schedules your todos. Local-first, data stays on your device.*
 
 <div align="center">
   <a href="https://github.com/ADA-quart/ITDC">
