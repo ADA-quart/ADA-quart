@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b40,100:7f2bff&height=200&section=header&text=TyTs%20%C2%B7%20ADA-quart&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Local-first%20apps%20%C2%B7%20LLM%20inference%20%C2%B7%20CUDA&descSize=16&descAlignY=60&descColor=d0bcff&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,50:6a11cb,100:8e2de2&height=200&section=header&text=TyTs%20%C2%B7%20ADA-quart&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=LLM%20inference%20%C2%B7%20CUDA%20%C2%B7%20Android&descSize=16&descAlignY=62&descColor=ffffff&animation=fadeIn&fontAlign=50" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=5000&pause=1600&color=8250DF&center=true&vCenter=true&width=780&lines=Local-first+apps+%C2%B7+LLM+inference+%C2%B7+CUDA;%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88%E5%BA%94%E7%94%A8+%C2%B7+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86+%C2%B7+CUDA+%E8%B0%83%E4%BC%98" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&duration=5000&pause=1600&color=8250DF&center=true&vCenter=true&width=780&lines=LLM+inference+%C2%B7+CUDA+%C2%B7+Android;%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86+%C2%B7+CUDA+%C2%B7+Android+%E5%BC%80%E5%8F%91" alt="Typing SVG" /></a>
 
 <p>
   <a href="mailto:y66448535@gmail.com"><img src="https://img.shields.io/badge/Gmail-y66448535-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -102,4 +102,4 @@ TyTs / ADA-quart，一个爱折腾的开发者。
   <sub>✨ <i>不追求完美，只是一直在变好 · Not perfect, just always improving.</i></sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f2bff,50:1a1b40,100:0d1117&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:6a11cb,100:4a00e0&height=100&section=footer" alt="footer"/>
