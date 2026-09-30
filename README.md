@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b40,100:7f2bff&height=200&section=header&text=TyTs%20%C2%B7%20ADA-quart&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Local-first%20apps%20%C2%B7%20LLM%20inference%20%C2%B7%20CUDA&descSize=16&descAlignY=60&descColor=d0bcff&animation=fadeIn" alt="header"/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8250DF&center=true&vCenter=true&width=780&lines=Local-first+apps+%C2%B7+LLM+inference+%C2%B7+CUDA;%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88%E5%BA%94%E7%94%A8+%C2%B7+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86+%C2%B7+CUDA+%E8%B0%83%E4%BC%98" alt="Typing SVG" /></a>
 
 <p>
@@ -32,7 +34,7 @@
 TyTs / ADA-quart，一个爱折腾的开发者。
 
 - 🌱 现在主要在做 **ITDC**，相信数据该归自己管
-- ⚡ 也玩 CUDA 和 LLM 推理 —— 曾让 27B 模型在 2016 年的 V100 上跑出 **854 tok/s**
+- ⚡ 也做 CUDA 和 LLM 推理优化，把 27B 三值模型搬上了一块 16G 的老 V100
 - 📮 联系 / contact：**y66448535@gmail.com**
 
 ## 技术栈 · Stack
@@ -99,3 +101,5 @@ TyTs / ADA-quart，一个爱折腾的开发者。
 <div align="center">
   <sub>✨ <i>不追求完美，只是一直在变好 · Not perfect, just always improving.</i></sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f2bff,50:1a1b40,100:0d1117&height=100&section=footer" alt="footer"/>
