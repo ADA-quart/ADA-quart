@@ -15,8 +15,8 @@
 
 ## 在做什么 · Now
 
-**[ITDC](https://github.com/ADA-quart/ITDC)** — 一个日历，待办交给 LLM 自动排程（Web + Android，本地优先）
-*A calendar where LLM schedules your todos. Local-first, data stays on your device.*
+**[ITDC](https://github.com/ADA-quart/ITDC)** — 一个日历，待办交给 LLM 自动排程（Web + Android）
+*A calendar where an LLM schedules your todos.*
 
 <div align="center">
   <a href="https://github.com/ADA-quart/ITDC">
