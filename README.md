@@ -15,8 +15,8 @@
 
 ## 在做什么 · Now
 
-**[ITDC](https://github.com/ADA-quart/ITDC)** — 一个日历，待办交给 LLM 自动排程（Web + Android）
-*A calendar where an LLM schedules your todos.*
+**[ITDC](https://github.com/ADA-quart/ITDC)** — 一个会用大模型帮你安排待办的日历（Web + Android）
+*A calendar that uses an LLM to schedule your todos.*
 
 <div align="center">
   <a href="https://github.com/ADA-quart/ITDC">
