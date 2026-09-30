@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b40,100:7f2bff&height=230&section=header&text=TyTs%20%C2%B7%20ADA-quart&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Local-first%20apps%20%C2%B7%20LLM%20inference%20%C2%B7%20CUDA&descSize=17&descAlignY=58&descColor=b388ff&animation=fadeIn" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=B388FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=%F0%9F%93%85+%E5%9C%A8%E5%81%9A+ITDC%EF%BC%9A%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88%E7%9A%84%E6%97%A5%E5%8E%86+%C2%B7+%E5%BE%85%E5%8A%9E+%C2%B7+%E6%99%BA%E8%83%BD%E6%8E%92%E7%A8%8B;%F0%9F%94%A5+%E5%89%AF%E7%BA%BF%EF%BC%9A%E8%AE%A9+27B+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9C%A8+V100+%E4%B8%8A%E8%B7%91%E5%87%BA+854+tok%2Fs;%F0%9F%8C%B1+%E4%BA%BA%E5%B7%A5%E6%99%BA%E9%9A%9C%EF%BC%8C%E4%BD%86%E5%9C%A8%E8%AE%A4%E7%9C%9F%E4%BF%AE%E7%82%BC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=C4B5FD&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=%F0%9F%93%85+%E5%9C%A8%E5%81%9A+ITDC%EF%BC%9A%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88%E7%9A%84%E6%97%A5%E5%8E%86+%C2%B7+%E5%BE%85%E5%8A%9E+%C2%B7+%E6%99%BA%E8%83%BD%E6%8E%92%E7%A8%8B;%F0%9F%94%A5+%E5%89%AF%E7%BA%BF%EF%BC%9A%E8%AE%A9+27B+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9C%A8+V100+%E4%B8%8A%E8%B7%91%E5%87%BA+854+tok%2Fs;%F0%9F%8C%B1+%E4%BA%BA%E5%B7%A5%E6%99%BA%E9%9A%9C%EF%BC%8C%E4%BD%86%E5%9C%A8%E8%AE%A4%E7%9C%9F%E4%BF%AE%E7%82%BC" alt="Typing SVG" /></a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ADA-quart&label=Views&color=7f2bff&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=ADA-quart&label=Views&color=7f2bff&style=for-the-badge&height=28" alt="views"/>
   <img src="https://img.shields.io/github/followers/ADA-quart?label=Followers&style=for-the-badge&color=8e2de2" alt="followers"/>
   <img src="https://img.shields.io/github/stars/ADA-quart?affiliations=OWNER&style=for-the-badge&color=b388ff&label=Stars" alt="stars"/>
 </p>
