@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,50:6a11cb,100:8e2de2&height=200&section=header&text=TyTs%20%C2%B7%20ADA-quart&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=LLM%20inference%20%C2%B7%20CUDA%20%C2%B7%20Android&descSize=16&descAlignY=62&descColor=ffffff&animation=fadeIn&fontAlign=50" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:4a00e0,100:8e2de2&height=200&section=header&text=TyTs%20%C2%B7%20ADA-quart&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=LLM%20inference%20%C2%B7%20CUDA%20%C2%B7%20Android&descSize=16&descAlignY=62&descColor=ffffff&animation=fadeIn&fontAlign=50" alt="header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&duration=5000&pause=1600&color=8250DF&center=true&vCenter=true&width=780&lines=LLM+inference+%C2%B7+CUDA+%C2%B7+Android;%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86+%C2%B7+CUDA+%C2%B7+Android+%E5%BC%80%E5%8F%91" alt="Typing SVG" /></a>
 
@@ -33,7 +33,7 @@
 
 TyTs / ADA-quart，一个爱折腾的开发者。
 
-- 🌱 现在主要在做 **ITDC**，相信数据该归自己管
+- 🌱 现在主要在做 **ITDC**
 - ⚡ 也做 CUDA 和 LLM 推理优化，把 27B 模型在一块 2016 年的 16G V100 上跑到 **60 tok/s**（131K 上下文）
 - 📮 联系 / contact：**y66448535@gmail.com**
 
