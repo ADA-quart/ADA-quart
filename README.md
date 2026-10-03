@@ -47,39 +47,37 @@ TyTs / ADA-quart，一个爱折腾的开发者。
 
 <div align="center">
   <a href="https://github.com/ADA-quart/bonsai2-27b-v100-optimizations">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA-quart&repo=bonsai2-27b-v100-optimizations&hide_border=true&theme=transparent" alt="bonsai2-27b-v100-optimizations"/>
+    <img width="440" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA-quart&repo=bonsai2-27b-v100-optimizations&hide_border=true&theme=transparent" alt="bonsai2-27b-v100-optimizations"/>
   </a>
   <a href="https://github.com/ADA-quart/lora-finetune-tutorial">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA-quart&repo=lora-finetune-tutorial&hide_border=true&theme=transparent" alt="lora-finetune-tutorial"/>
+    <img width="440" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA-quart&repo=lora-finetune-tutorial&hide_border=true&theme=transparent" alt="lora-finetune-tutorial"/>
   </a>
 </div>
 
 ## 数据 · Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ADA-quart&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADA-quart&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="langs"/>
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=ADA-quart&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="stats"/>
+  <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADA-quart&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="langs"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ADA-quart&hide_border=true&theme=transparent" alt="streak"/>
+  <img width="570" src="https://streak-stats.demolab.com?user=ADA-quart&hide_border=true&theme=transparent" alt="streak"/>
 </div>
 
-<details>
-<summary>🏆 <b>成就墙 · Trophies</b></summary>
-<br/>
+## 成就墙 · Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ADA-quart&theme=flat&no-frame=true&no-bg=true&column=7" alt="trophies"/>
 </div>
-</details>
 
-<details>
-<summary>📈 <b>全年日历与编码习惯 · Year &amp; habits（每日自动更新 / auto-updated）</b></summary>
-<br/>
+
+## 全年日历与编码习惯 · Year & Habits
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ADA-quart/ADA-quart/main/github-metrics.svg" alt="metrics"/>
 </div>
-</details>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
