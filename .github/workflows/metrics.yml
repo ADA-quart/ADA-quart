@@ -4,11 +4,13 @@ on:
   schedule:
     - cron: "0 17 * * *" # 每天 01:00 (UTC+8)
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 permissions:
   contents: write
+
+concurrency:
+  group: metrics-main
+  cancel-in-progress: true
 
 jobs:
   metrics:
