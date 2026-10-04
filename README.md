@@ -6,7 +6,6 @@
 
 <p>
   <a href="mailto:y66448535@gmail.com"><img src="https://img.shields.io/badge/Gmail-y66448535-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/ADA-quart"><img src="https://img.shields.io/badge/Profile-Views-8250df?style=flat-square&logo=github" alt="views"/></a>
   <img src="https://img.shields.io/github/followers/ADA-quart?style=flat-square&label=Followers" alt="followers"/>
   <img src="https://img.shields.io/github/stars/ADA-quart?affiliations=OWNER&style=flat-square&label=Stars" alt="stars"/>
 </p>
@@ -15,8 +14,8 @@
 
 ## 在做什么 · Now
 
-**[ITDC](https://github.com/ADA-quart/ITDC)** — 一个会用大模型帮你安排待办的日历（Web + Android）
-*A calendar that uses an LLM to schedule your todos.*
+**[ITDC](https://github.com/ADA-quart/ITDC)** — 一个把待办交给 LLM 自动排程的日历（Web + Android）
+*A calendar where an LLM schedules your todos.*
 
 <div align="center">
   <a href="https://github.com/ADA-quart/ITDC">
@@ -25,7 +24,6 @@
   <br/>
   <a href="https://github.com/ADA-quart/ITDC/actions/workflows/ci.yml"><img src="https://github.com/ADA-quart/ITDC/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
   <a href="https://github.com/ADA-quart/ITDC/releases/latest"><img src="https://img.shields.io/github/v/release/ADA-quart/ITDC?style=flat-square" alt="Release"/></a>
-  <br/>
   <a href="https://github.com/ADA-quart/ITDC/releases/latest"><b>📱 下载 APK · Get the app</b></a>
 </div>
 
@@ -34,7 +32,7 @@
 TyTs / ADA-quart，一个爱折腾的开发者。
 
 - 🌱 现在主要在做 **ITDC**
-- ⚡ 也做 CUDA 和 LLM 推理优化，把 27B 模型在一块 2016 年的 16G V100 上跑到 **60 tok/s**（131K 上下文）
+- ⚡ 也做 CUDA 和 LLM 推理优化：27B 模型在一块 2016 年的 16G V100 上，解码 **60 tok/s**、131K 上下文
 - 📮 联系 / contact：**y66448535@gmail.com**
 
 ## 技术栈 · Stack
@@ -58,11 +56,13 @@ TyTs / ADA-quart，一个爱折腾的开发者。
 
 <div align="center">
   <img width="410" src="https://github-readme-stats.vercel.app/api?username=ADA-quart&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="stats"/>
-  <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADA-quart&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="langs"/>
+  <img width="410" src="https://streak-stats.demolab.com?user=ADA-quart&hide_border=true&theme=transparent" alt="streak"/>
 </div>
 
+## 全年 · Year
+
 <div align="center">
-  <img width="570" src="https://streak-stats.demolab.com?user=ADA-quart&hide_border=true&theme=transparent" alt="streak"/>
+  <img src="https://raw.githubusercontent.com/ADA-quart/ADA-quart/main/github-metrics.svg" alt="metrics"/>
 </div>
 
 ## 成就墙 · Trophies
@@ -70,17 +70,6 @@ TyTs / ADA-quart，一个爱折腾的开发者。
 <div align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ADA-quart&theme=flat&no-frame=true&no-bg=true&column=7" alt="trophies"/>
 </div>
-
-
-## 全年日历与编码习惯 · Year & Habits
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ADA-quart/ADA-quart/main/github-metrics.svg" alt="metrics"/>
-</div>
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 贡献 · Contributions
 
@@ -95,6 +84,11 @@ TyTs / ADA-quart，一个爱折腾的开发者。
     <img alt="contribution snake" src="https://raw.githubusercontent.com/ADA-quart/ADA-quart/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
+
+<!-- 编码时长（WakaTime）：配置 WAKATIME_API_KEY secret 后自动启用
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+-->
 
 <div align="center">
   <sub>✨ <i>不追求完美，只是一直在变好 · Not perfect, just always improving.</i></sub>
