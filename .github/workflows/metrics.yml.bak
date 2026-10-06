@@ -1,18 +1,14 @@
 name: GitHub Metrics
 
 on:
-  repository_dispatch:
-    types: [contribution-updated]
   schedule:
-    - cron: "17,47 * * * *" # 每 30 分钟兜底刷新（UTC），与 3D/Snake 错峰
+    - cron: "0 17 * * *" # 每天 01:00 (UTC+8)
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 permissions:
   contents: write
-
-concurrency:
-  group: profile-metrics-refresh
-  cancel-in-progress: false
 
 jobs:
   metrics:

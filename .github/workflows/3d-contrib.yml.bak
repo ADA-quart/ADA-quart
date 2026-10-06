@@ -1,18 +1,14 @@
 name: 3D Contribution Graph
 
 on:
-  repository_dispatch:
-    types: [contribution-updated]
   schedule:
-    - cron: "7,37 * * * *" # 每 30 分钟兜底刷新（UTC），避开整点/半点高负载
+    - cron: "0 19 * * *" # 每天 03:00 (UTC+8)
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 permissions:
   contents: write
-
-concurrency:
-  group: profile-3d-refresh
-  cancel-in-progress: false
 
 jobs:
   build:
@@ -29,13 +25,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A .
           git commit -m "chore: update 3d contribution graph" || exit 0
-          for attempt in 1 2 3; do
-            git pull --rebase origin main
-            if git push; then
-              exit 0
-            fi
-            echo "push 失败，第 $attempt 次重试..."
-            sleep 5
-          done
-          echo "多次重试后仍然推送失败" >&2
-          exit 1
+          git push

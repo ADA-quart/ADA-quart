@@ -1,18 +1,14 @@
 name: Generate contribution snake
 
 on:
-  repository_dispatch:
-    types: [contribution-updated]
   schedule:
-    - cron: "27,57 * * * *" # 每 30 分钟兜底刷新（UTC），与 3D/Metrics 错峰
+    - cron: "0 16 * * *" # 每天 00:00 (UTC+8)
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 permissions:
   contents: write
-
-concurrency:
-  group: profile-snake-refresh
-  cancel-in-progress: false
 
 jobs:
   build:
