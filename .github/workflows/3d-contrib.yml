@@ -4,7 +4,7 @@ on:
   repository_dispatch:
     types: [contribution-updated]
   schedule:
-    - cron: "*/30 * * * *" # 每 30 分钟兜底刷新（UTC）
+    - cron: "7,37 * * * *" # 每 30 分钟兜底刷新（UTC），避开整点/半点高负载
   workflow_dispatch:
 
 permissions:
