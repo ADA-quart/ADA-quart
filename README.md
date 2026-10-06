@@ -85,10 +85,9 @@ TyTs / ADA-quart，一个爱折腾的开发者。
   </picture>
 </div>
 
-<!-- 编码时长（WakaTime）：配置 WAKATIME_API_KEY secret 后自动启用
+<!-- 编码时长（WakaTime）：配置 WAKATIME_API_KEY secret 后自动启用 -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
--->
 
 <div align="center">
   <sub>✨ <i>不追求完美，只是一直在变好 · Not perfect, just always improving.</i></sub>
